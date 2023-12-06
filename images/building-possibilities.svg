@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364.61 103.64">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: PBSSansBlack, 'PBS Sans';
+        font-size: 36px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: PBSSansMedium, 'PBS Sans';
+        font-size: 16px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(0 30.24)"><tspan x="0" y="0">Building Possibilities</tspan></text>
+      <text class="cls-2" transform="translate(1.28 60.03)"><tspan x="0" y="0">Imagine a new MontanaPBS Public Media Center </tspan><tspan x="76.88" y="19.2">serving futu</tspan><tspan class="cls-3" x="163.77" y="19.2">r</tspan><tspan x="169.74" y="19.2">e gene</tspan><tspan class="cls-5" x="219" y="19.2">r</tspan><tspan class="cls-4" x="224.97" y="19.2">ations.</tspan></text>
+    </g>
+  </g>
+</svg>
