@@ -332,7 +332,7 @@ h2.subheader.preview {
     background-color: #141964;
     justify-items: center;
     align-items: center;
-    padding: 0rem 0 3rem 0;
+    padding: 3rem 0 5rem 0;
     margin: none;
     
     /*height: 30rem;*/
@@ -855,6 +855,14 @@ nav {
         align-items: center;
         justify-items: center;
         padding-top: 4rem;
+    }
+
+    .about-logo {
+        display: grid;
+        object-fit: 100%;
+        max-width: 7rem;
+        align-items: center;
+        justify-items: center;
     }
 
 
