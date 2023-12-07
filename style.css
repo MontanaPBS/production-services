@@ -848,6 +848,10 @@ nav {
         
     }
 
+    .about-item.no-padding {
+        padding: 0rem 0 10rem 0;
+    }
+
 
     .logo-grid {
         display: grid;
