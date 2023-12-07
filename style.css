@@ -437,7 +437,7 @@ h2.subheader.preview {
 .about-logo {
     display: grid;
     object-fit: 100%;
-    max-width: 7rem;
+    max-width: 5rem;
     align-items: center;
     justify-items: center;
 }
