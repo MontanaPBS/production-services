@@ -425,6 +425,12 @@ h2.subheader.preview {
     text-align: left;
 }
 
+.about-content.bold {
+    text-align: center;
+    padding: 0 0 2rem 0;
+    font-weight: 900;
+}
+
 .logo-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
